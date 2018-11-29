@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-
+"""
+    READ the read.me before use. Attacking servers you don't own is highly illegal
+    and the author in no way supports misuse of this tool
+"""
 import socket
 import threading
 import sys
